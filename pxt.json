@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "accel16g.ts"
+        "accel16g.ts",
+        "accel16g.cpp"
     ],
     "testFiles": [
         "test.ts"
